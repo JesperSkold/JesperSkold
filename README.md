@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesper</h1>
-<h3 align="center">A passionate frontend developer student from Stockholm</h3>
+<h3 align="center">A passionate web developer student from Stockholm</h3>
 
 - 🔭 I’m studying web development with a focus on the frontend
 - 🌱 Currently learning headless CMS with React and CMS with PHP
