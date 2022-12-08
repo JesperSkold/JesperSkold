@@ -3,7 +3,6 @@
 
 - 🔭 I’m studying web development with a focus on the frontend
 - 🌱 Currently learning headless CMS with React and CMS with PHP
-- 📝 Looking for an internship 23/1 - 14/5
 - 📫 How to reach me: Skoldfold@gmail.com 
 
 <h3 align="left">Languages and Tools:</h3>
