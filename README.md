@@ -26,7 +26,7 @@
 [RS]: https://github.com/JesperSkold/recipe-site
 [RSS]: https://recipe-site.onrender.com/
 [PS]: https://github.com/JesperSkold/portfolio-site
-[PSS]: [https://jesperolsson.gatsbyjs.io/]
+[PSS]: https://jesperolsson.gatsbyjs.io/
 [SW]: https://github.com/JesperSkold/star-wars-catalog
 [SWS]: https://jesperskold.github.io/star-wars-catalog/
 [EW]: https://github.com/JesperSkold/e-wallet
