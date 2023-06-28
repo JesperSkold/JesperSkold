@@ -2,7 +2,6 @@
 <h3 align="center">A passionate web developer student from Stockholm</h3>
 
 - 🔭 I’m studying web development with a focus on the frontend
-- 🌱 Currently doing my internship at Hitta
 - 📫 How to reach me: jesperolsson.webdev@gmail.com 
 
 <h3 align="left">Languages and Tools:</h3>
