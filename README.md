@@ -12,11 +12,11 @@
 | Repo                                           | Deployed Site                                      | Description 
 | ---------------------------------------------- | -------------------------------------------------- | --------------------------------------------------
 | [Recipe Site][RS]                              | [recipe-site.onrender.com][RSS]                    | A full stack recipe site. Built with React, Express and TS. 
-| [My Portfolio][PS]                             | [jesperolsson.netlify.app][PSS]                   | My portfolio. Built with GatsbyJS and React.
+| [My Portfolio][PS]                             | [jesperolsson.netlify.app][PSS]                    | My portfolio. Built with GatsbyJS and React.
 | [Star Wars Catalog][SW]                        | [jesperskold.github.io/star-wars-catalog][SWS]     | A Star Wars themed catalog. Built with Vue.   
 | [E-wallet][EW]                                 | [jesperskold.github.io/e-wallet][EWS]              | A digital wallet simulator. Built with Vue.
 | [Meme Customizer][MC]                          | [meme-customizer.netlify.app][MCS]                 | A site for customizing popular memes. Built with React and TS.
-| [DRG Mini Project][DRG]                        | [jesperskold.github.io/drg-mini-project][DRGS]     | A small all in one e-commerce themed site. Built with Vue.
+| [Trivia Game][TRI]                             | [trivianado.netlify.app][TRIS]                     | A trivia web app offering custom game settings and quick play modes. Built with React and TS.
 | [Todo App][TA]                                 | [jesperskold.github.io/todo-app-vue][TAS]          | A tiny TODO app. Built with Vue.
 | [SINUS Webshop][SIW]                           | Not Deployed                                       | Collaborative project for an e-commerce store. Built with Vue.
 | [Star Wars Catalog Pure JS][SWJS]              | Not Deployed                                       | A Star Wars themed catalog - but with no frameworks.
@@ -29,8 +29,8 @@
 [SWS]: https://jesperskold.github.io/star-wars-catalog/
 [EW]: https://github.com/JesperSkold/e-wallet
 [EWS]: https://jesperskold.github.io/e-wallet/
-[DRG]: https://github.com/JesperSkold/drg-mini-project
-[DRGS]: https://jesperskold.github.io/drg-mini-project/
+[TRI]: https://github.com/JesperSkold/trivia-game
+[TRIS]: https://trivianado.netlify.app/
 [TA]: https://github.com/JesperSkold/todo-app-vue
 [TAS]: https://jesperskold.github.io/todo-app-vue/
 [SIW]: https://github.com/JesperSkold/SINUS-webshop
