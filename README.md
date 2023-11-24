@@ -16,7 +16,7 @@
 | [Trivia Game][TRI]                             | [trivianado.netlify.app][TRIS]                     | A trivia web app offering custom game settings and quick play modes. Built with React and TS.
 | [Meme Customizer][MC]                          | [meme-customizer.netlify.app][MCS]                 | A site for customizing popular memes. Built with React and TS.
 | [Star Wars Catalog][SW]                        | [jesperskold.github.io/star-wars-catalog][SWS]     | A Star Wars themed catalog. Built with Vue.   
-| [E-wallet][EW]                                 | [jesperskold.github.io/e-wallet][EWS]              | A digital wallet simulator. Built with Vue.
+| [E-wallet][EW]                                 | [jesperskold.github.io/e-wallet][EWS]              | A digital wallet simulator. Built with Vue and Vuex.
 | [Todo App][TA]                                 | [jesperskold.github.io/todo-app-vue][TAS]          | A tiny TODO app. Built with Vue.
 | [SINUS Webshop][SIW]                           | Not Deployed                                       | Collaborative project for an e-commerce store. Built with Vue.
 | [Star Wars Catalog Pure JS][SWJS]              | Not Deployed                                       | A Star Wars themed catalog - but with no frameworks.
