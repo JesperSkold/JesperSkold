@@ -38,5 +38,5 @@
 [MC]: https://github.com/JesperSkold/meme-generator
 [MCS]: https://meme-customizer.netlify.app/
 
-## GitHub Stats 📈
-![GitHub metrics](https://metrics.lecoq.io/JesperSkold)
+<!-- ## GitHub Stats 📈
+![GitHub metrics](https://metrics.lecoq.io/JesperSkold) -->
